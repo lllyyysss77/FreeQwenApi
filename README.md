@@ -1,6 +1,6 @@
-# FreeQwenApi — ForgetMeAI fork
+# FreeQwenApi 
 
-> **Локальный OpenAI-compatible прокси к Qwen Chat** от [t.me/forgetmeai](https://t.me/forgetmeai).  
+> **Локальный OpenAI-compatible прокси к Qwen Chat** ГРАЦ ЕМУ - [t.me/forgetmeai](https://t.me/forgetmeai).  
 > Текст, модели Qwen 3.7, файлы, Open WebUI, Hermes/LiteLLM, а теперь ещё генерация изображений и видео через Qwen Chat.
 
 ![ForgetMeAI](https://img.shields.io/badge/ForgetMeAI-t.me%2Fforgetmeai-blue)
